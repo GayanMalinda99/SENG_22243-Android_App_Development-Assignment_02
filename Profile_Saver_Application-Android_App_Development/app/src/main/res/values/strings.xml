@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profile Saver</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dataReceiverLabel">Register</string>
+    <string name="dataDisplayLabel">User Info</string>
+
+</resources>
